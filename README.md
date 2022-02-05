@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I'm Ogunyemi Oluwafisayomi, an Android Developer
+  I'm Ogunyemi Oluwafisayomi, a Mobile Developer
 
 [![trophy](https://github-profile-trophy.vercel.app/DroneCodes=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
