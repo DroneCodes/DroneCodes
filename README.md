@@ -1,10 +1,12 @@
 ### Hi there 👋
 
   I'm Ogunyemi Oluwafisayomi, a Mobile Developer
+  
+  ![Oluwafisayomi's github stats](https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&theme=react)
 
-[![trophy](https://github-profile-trophy.vercel.app/DroneCodes=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/api?username=DroneCodes=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/DroneCodes=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/api?username=DroneCodes=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
