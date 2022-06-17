@@ -4,9 +4,9 @@
   
   ![Oluwafisayomi's github stats](https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&theme=react)
 
-[![trophy](https://github-profile-trophy.vercel.app/api?username=DroneCodes=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DroneCodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/api?username=DroneCodes=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DroneCodes" alt = "" /></a> </p>
 
 
 <!--
