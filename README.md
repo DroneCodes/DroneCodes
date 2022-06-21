@@ -9,6 +9,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DroneCodes" alt = "" /></a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DroneCodes&show_icons=true&locale=en&layout=compact" alt="DroneCodes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&locale=en" alt="DroneCodes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodesr&" alt="DroneCodes" /></p>
+
 <!--
 **DroneCodes/DroneCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -21,4 +27,5 @@
 - 📫 How to reach me: ... oluwafisayomiogunyemi@gmail.com
 - 😄 Pronouns: ... Mr
 - ⚡ Fun fact: ... I love learning new languages
+
 
