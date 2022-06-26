@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I'm Ogunyemi Oluwafisayomi, a Mobile Developer
+  I'm Ogunyemi Oluwafisayomi, a Mobile Application Developer
   
   ![Oluwafisayomi's github stats](https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&theme=react)
 
