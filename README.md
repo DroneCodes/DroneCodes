@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I'm Ogunyemi Oluwafisayomi, a Mobile Application Developer
+  I'm Ogunyemi Oluwafisayomi, a Mobile Application Developer with Flutter
   
   ![Oluwafisayomi's github stats](https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&theme=react)
 
@@ -20,9 +20,9 @@
 -->
 
 - 🔭 I’m currently working on ... perfecting my skills as an Mobile Developer
-- 🌱 I’m currently learning ... Dart, Flutter........
-- 👯 I’m looking to collaborate on ... Mobile Applications
-- 🤔 I’m looking for help with ... Writing more reusable code
+- 🌱 I’m currently learning ... How to be more better at Flutter........
+- 👯 I’m looking to collaborate on ... Problem Solving with Flutter
+- 🤔 I’m looking for help with ... Animating with Flutter
 - 💬 Ask me about ... Android, Flutter, Dart and Java
 - 📫 How to reach me: ... oluwafisayomiogunyemi@gmail.com
 - 😄 Pronouns: ... Mr
