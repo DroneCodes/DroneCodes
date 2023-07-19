@@ -2,7 +2,7 @@
 
   I'm Ogunyemi Oluwafisayomi, a Mobile Application Developer with Flutter
   
-  ![Oluwafisayomi's github stats](https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&theme=react)
+  ![Oluwafisayomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DroneCodes&show_icons=true&theme=react)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DroneCodes&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
@@ -19,13 +19,5 @@
 **DroneCodes/DroneCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on ... perfecting my skills as an Mobile Developer
-- 🌱 I’m currently learning ... How to be more better at Flutter........
-- 👯 I’m looking to collaborate on ... Problem Solving with Flutter
-- 🤔 I’m looking for help with ... Animating with Flutter
-- 💬 Ask me about ... Android, Flutter, Dart and Java
-- 📫 How to reach me: ... oluwafisayomiogunyemi@gmail.com
-- 😄 Pronouns: ... Mr
-- ⚡ Fun fact: ... I love learning new languages
 
 
