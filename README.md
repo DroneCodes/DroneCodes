@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DroneCodes&show_icons=true&locale=en&layout=compact" alt="DroneCodes" /></p>
 
-<p><img sr= "https://leetcard.jacoblin.cool/DroneCodes" alt ="https://leetcode.com/DroneCodes" /></p>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Dronecodes&theme=dark)](https://github.com/DroneCodes/leetcode-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodes&" alt="DroneCodes" /></p>
 
 
