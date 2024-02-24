@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/dronecodes/" target="_blank">
     <img src="https://img.shields.io/badge/-DroneCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dronecodes/" alt="LinkedIn" />
   </a>
+  <a href="https://www.youtube.com/channel/UCRizWBi6pF6n_bYGpasQcbw" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC6bMv7LTZ-miz_6JJjQR7Kg?label=Subscribe&style=social" alt="YouTube" />
+  </a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
