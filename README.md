@@ -1,5 +1,5 @@
-<h1 align="center">👋 Welcome to my Profile! I'm Ogunyemi Oluwafisayomi</h1>
-<h3 align="center">Passionate Developer from Nigeria 🇳🇬</h3>
+<h1 align="center">👋 Hey there! I'm Ogunyemi Oluwafisayomi</h1>
+<h3 align="center">🚀 Passionate Developer from Nigeria 🇳🇬</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DroneCodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -11,13 +11,13 @@
   </a>
 </p>
 
-<h3 align="center">🔗 Let's Connect:</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/DroneCodes" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://twitter.com/DroneCodes" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/DroneCodes?style=social" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/dronecodes/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/dronecodes/" target="_blank">
+    <img src="https://img.shields.io/badge/-DroneCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dronecodes/" alt="LinkedIn" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DroneCodes&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroneCodes&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center"> 
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodes&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodes&theme=dark" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">📫 How to reach me: <a href="mailto:oluwafisayomiogunyemi@gmail.com">oluwafisayomiogunyemi@gmail.com</a></h3>
