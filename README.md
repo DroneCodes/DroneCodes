@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there! I'm Ogunyemi Oluwafisayomi</h1>
 <h3 align="center">🚀 Life is 🤩 fun</h3>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DroneCodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=DroneCodes">
     <img src="https://github-profile-trophy.vercel.app/?username=DroneCodes" alt="Trophies" />
   </a>
 </p>
@@ -25,8 +25,7 @@
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
-
-<p align="center"> 
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -38,22 +37,20 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </p>
 
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroneCodes&layout=compact&theme=radical" alt="Top Languages"/>
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroneCodes&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodes&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center"> 
+<h3 align="center">🔢 LeetCode Stats:</h3>
+<p align="center">
   <a href="https://github.com/DroneCodes/leetcode-stats">
     <img src="https://leetcode-stats-six.vercel.app/?username=Dronecodes&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
-<p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodes&theme=dark" alt="GitHub Streak" />
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+  <a href="mailto:oluwafisayomiogunyemi@gmail.com">oluwafisayomiogunyemi@gmail.com</a>
 </p>
-
-<h3 align="center">📫 How to reach me: <a href="mailto:oluwafisayomiogunyemi@gmail.com">oluwafisayomiogunyemi@gmail.com</a></h3>
-
-<!--
-**DroneCodes/DroneCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
