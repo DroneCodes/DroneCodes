@@ -52,5 +52,5 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:oluwafisayomiogunyemi@gmail.com">oluwafisayomiogunyemi@gmail.com</a>
+  <a href="mailto:soluwafisayomi21@gmail.com">soluwafisayomi21@gmail.com</a>
 </p>
