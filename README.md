@@ -45,9 +45,7 @@
 
 <h3 align="center">🔢 LeetCode Stats:</h3>
 <p align="center">
-  <a href="https://github.com/DroneCodes/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/?username=Dronecodes&theme=dark" alt="LeetCode Stats" />
-  </a>
+  ![Leetcode Stats](https://leetcode.com/u/DroneCodes/)
 </p>
 
 <h3 align="center">📫 How to reach me:</h3>
