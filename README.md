@@ -43,10 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DroneCodes&theme=dark" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">🔢 LeetCode Stats:</h3>
-<p align="center">
-  ![Leetcode Stats](https://leetcode.com/u/DroneCodes/)
-</p>
+ ![Leetcode Stats](https://leetcode.com/u/DroneCodes/)
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
